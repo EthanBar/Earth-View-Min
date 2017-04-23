@@ -1,5 +1,5 @@
 # Earth-View-Min
-Google's Earth View extension, without the ads
+[Google's Earth View extension](https://chrome.google.com/webstore/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh?hl=en), without the ads
 ## How to install
 Chrome no longer allows raw .crx files to be run, so there's a few extra steps
 1. Download Earth.zip from the releases tab
