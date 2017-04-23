@@ -8,6 +8,3 @@ Chrome no longer allows raw .crx files to be run, so there's a few extra steps
 4. Enable developer mode
 5. Click `Load unpacked extension...`
 6. Select the unziped folder
-## How to contribute
-- Only upload files that are modifed (You can edit and look at the others from the downloaded .zip)
-- Find other bloat, background tasks to delete and remove
