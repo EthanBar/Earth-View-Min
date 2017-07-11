@@ -8,3 +8,5 @@ Chrome no longer allows raw .crx files to be run, so there's a few extra steps
 4. Enable developer mode
 5. Click `Load unpacked extension...`
 6. Select the unziped folder
+## Screenshot
+![screenshot](screenshot.jpg)
